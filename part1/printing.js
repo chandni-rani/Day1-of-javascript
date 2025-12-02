@@ -2,7 +2,7 @@
 console.log("Hello");
 console.log("World");
 
-Process.stdout.write("Hello");
+process.stdout.write("Hello");
 process.stdout.write(", World!\n");
 
 console.table({state: "Punjab", country: "India"});
