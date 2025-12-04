@@ -1,7 +1,7 @@
 let score = 100;
 let bonus = 20;
 
-let totalScore = score + bonus + addition;
+let totalScore = score + bonus;
 
 let add = 5 + 3;
 let sub = 10 - 2;
