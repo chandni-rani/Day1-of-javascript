@@ -6,7 +6,7 @@
 let isLoggedIn = true;
 let ispaid = true;
 
-console.log(isLoggedIn && ispaid); //false
+console.log(isLoggedIn && ispaid); //true
 
 let isEmailuser = true;
 let isGoogleuser = false;
