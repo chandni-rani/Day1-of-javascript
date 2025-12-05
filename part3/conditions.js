@@ -32,3 +32,13 @@ if (typeof value == 'number') {
 } else {
     console.log("No, Value is not a number");
 }
+
+//Check if a boolean variable is true or false
+
+let isLoggedIn = true;
+
+if (isLoggedIn) {
+    console.log("User is logged in");
+}    else {
+    console.log("User is not logged in");
+}
