@@ -22,3 +22,13 @@ if (username == unotherUsername) {
 } else {
     console.log("Usernames do not match");
 }
+
+//Check if a variable is a number or not
+
+let value = 42;
+
+if (typeof value == 'number') {
+    console.log("Yes, Value is a number"); 
+} else {
+    console.log("No, Value is not a number");
+}
