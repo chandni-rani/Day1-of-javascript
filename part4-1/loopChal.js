@@ -9,4 +9,4 @@ while (i <= 5) {
     i++;
 }
 
-console.log(sum);
+console.log(sum); // 5+4+3+2+1 = 15
